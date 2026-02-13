@@ -27,10 +27,6 @@ My journey is driven by a love for building functional and aesthetic digital sol
 - 🎮 When I'm not coding: Gaming, Anime, or hitting the Gym.
 
 ---
-
-### 📫 How to reach me
-- **LinkedIn:** www.linkedin.com/in/michael-lopes-marques
-
 *"Every day is a chance to learn something new."*
 <!--
 **MichaelLopesMarques/MichaelLopesMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
