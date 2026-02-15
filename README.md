@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Michael
 
-I'm a passionate **Software Developer** based in Germany, transitioning from a background in Media Design to the world of code.  
+I'm a passionate Software Developer based in Germany, transitioning from a background in Media Design to the world of code.  
 My journey is driven by a love for building functional and aesthetic digital solutions.
 
 ---
